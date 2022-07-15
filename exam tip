@@ -2,3 +2,24 @@ there are 3 cloud models ; public, private and hybrid
 -Public requires no up-front costs and is shared among customer
 -Private clouds are used by a single org only and require you to pay for the hardware and maintenance 
 -A Hybrid cloud is the combination of public and private 
+
+
+Availability zones are physically separate datacenters within an Azure region
+Each availbility zone consists of the one or more datacanters with independent power, cooling, and networking 
+Availability sets protect agabinst hardware failures within a datacenter, but availability zones protect against datacenter failures within a region 
+
+Asubscription provides authenticated and authorized access to Azure products 
+An Azure subscription is a logical unit of Azure service that links to an Azure account, which is an identuty in Azure Active Directory (Azure AD)
+or in a directory that Azure AD trusts 
+
+A subcription can be aa Billing boundary or an Access control boundary, and you can organize multiple subscriptions into different invoice 
+sections by creating billing profiles
+
+Azure management groups allow you to manage access, policies, and compliance for multiple subscription.
+All subscriptions within a management group automatically inherit the conditions applied to the management group 
+All subscriptions within a single management group must trust the same Azure AD tenant 
+
+Review the hierarchy image 
+
+A resource is a manageable item that's available through Azure. VMs, storage accounts, web apps, databases, and virtual network are example of resources 
+A resource group is a container that holds related resources for an Azure solution. includes resources that yoy want to manage as a group 
