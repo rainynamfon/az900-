@@ -23,3 +23,15 @@ Review the hierarchy image
 
 A resource is a manageable item that's available through Azure. VMs, storage accounts, web apps, databases, and virtual network are example of resources 
 A resource group is a container that holds related resources for an Azure solution. includes resources that yoy want to manage as a group 
+
+1 Azure HDInsight is a cloud service that makes it easier, faster,and more cost-effective to process massive amounts of data. 
+HDInsight allows you to run popular open-source frameworks and create types such as Apache Spark, Apache hadoop, Apache Kafka 
+
+2 Azure Machine Learning service provides a cloud-based environment that can be used to develop, train, test deplopy, manage, and track machine learning models. 
+it will let you start training on you local machine, and then scal out to the cloud 
+
+3 Azure Synapse Analytics is a limitless analytics service that brings together enterprise data warehousing and big data analytics.
+it gives you the freedom to query data on your terms, using either serverless on-damand or provisioned resources- at scale 
+
+4 connitive services are a collection or domain-specific per-trained AL model that can be customized with your data. they are categorized broadly into vision, speech, language 
+
