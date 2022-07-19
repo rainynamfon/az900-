@@ -1,0 +1,13 @@
+Dedicated Server 
+One physical machine dedicated to single a business.
+Runs a single web-app/site 
+------- Very Expernsive, high maintenance, high sercurity 
+
+Virtual Private Server 
+One physical machine dedicated to a single business. the physical machine is virtualized 
+into sub-machines runs multiple-web-apps/sites 
+
+Shared Hosting 
+one physical machine, shared by hundred of businesses 
+relies on most tenants under-utilizing resources
+-------- Very Cheap, very limited 
