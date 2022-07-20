@@ -1,0 +1,5 @@
+using multiple cloud providers 
+Aka multi-cloud , hybrid-cloud 
+
+Amazon EKS ____________> Azure Arc ____________> GCP Kubernetes Engine 
+
