@@ -3,3 +3,22 @@ Aka multi-cloud , hybrid-cloud
 
 Amazon EKS ____________> Azure Arc ____________> GCP Kubernetes Engine 
 
+Cloud Architecture terminologies 
+
+Availability - your ability to ensure a service remains available 
+------ Highty available (HA)
+
+Scalability 
+your ability to grow rapidly or unimpeded 
+
+Elasticity 
+your ability to shrink and grow to meet the demand 
+
+Fault tolerance 
+your ability to prevent a failure 
+
+Disaster Recovery 
+your ability to recover from a failure 
+------- Highty Durable (DR)
+
+ 
