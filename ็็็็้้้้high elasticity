@@ -1,0 +1,6 @@
+you ability to automatically increase or decrease your capacity based on the current demand of traffic, memory and computing power 
+
+Horizonal Scaling 
+scaling out -- Add more servers of the same size 
+scaling in -- Removing more servers of the same size 
+vatical scaling is generally hard for traditional architecture so you'll usually only see horizontal scaling described with Elasticity 
