@@ -1,0 +1,10 @@
+your ablilty for your service to ensure there is no 
+-- no single point of failure -- preventing the chance of failure 
+
+fail-overs is when you have a plan to shift traffic to a redundant system in case 
+the primary system fails 
+
+a common example is having a copy (secondary) of your database where all ongoing changes 
+are synced. the secondary system is not in-use until a fail over occurs and it becomes the primary database 
+
+
