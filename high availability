@@ -1,0 +1,10 @@
+Your ablility for your service ti remain available by ensuring there is 
+* no single point of failure and/ or ensure a certain level of performance 
+
+Running your workload across multiple Availability Zones ensures that if 1 or 2 
+AZs become unavailable your service /application remains available. 
+
+Azure Load Balancer 
+A load balancer allows you to evenly distribute traffic to multiple servers in one 
+or datacenter. if a datacenter or server become unavailable (unhealthy) the load balancer will route 
+the traffic to only available datacenters with servers 
