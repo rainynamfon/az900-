@@ -1,0 +1,12 @@
+Resource Groups - allows you to manage the application collectively over its lifecycle, 
+rather than manage components individually 
+
+Management groups - are containers that help you manage access, policy, and compliance 
+
+Subcriptions - provides you with authenticated and authorized access to Azure products and services and allows you to provision resources 
+
+Resource Manager - provides a management layer yhat enables 
+you to create, update, and delete resources in your Azure account 
+
+
+
