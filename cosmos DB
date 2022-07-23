@@ -1,0 +1,7 @@
+Cosmos DB - supports schema-less data that lets you build highly responsive and always on applications to support constantly changing data 
+
+SQL Server Database - is a relational database as a service 
+
+Database Migration Service - enable seamless migrations from multiple database sources to Azure data platforms with minimal downtime 
+
+Cache for Redis - used as an in-memory data structure store, a distributed non-relational database, and a message broker 
