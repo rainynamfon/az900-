@@ -1,0 +1,54 @@
+Cloud services with client library SDKs and rest APLs that you can use to 
+build cognitive intelligence into applications 
+
+**************NO artificial intellignce skills or data science skills necessary 
+
+cognitive services comprise various AI services,
+you can build solutions that can not only see and hear but can also speak, understand and make decisions
+
+the cognitive services offering is broken down into five main pillars. 
+there pillars include vision, speech, language, decision and search 
+
+for example, the vision APIs include things like computer vision, custom vision service, face form recogniser and video indexer 
+
+vision 
+-computer vision, custom service, face, form, recognizer, and video indexer 
+-process Images and return information
+-face Detection and Recognition 
+
+Speech 
+- Speech-enabled features 
+speech to text 
+text to Speech 
+speech translation 
+
+Language 
+-text Analytics 
+-translator 
+-immersive Reader 
+
+Decision 
+-Anomaly Detector 
+-Content Moderator 
+
+Search 
+-News Articles
+-Videos 
+-Search Results 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
