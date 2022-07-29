@@ -1,0 +1,13 @@
+cloud shell 
+is a browser-based scripting environment in Azure portal 
+
+PowerShell
+a windows module that eanbles you to connect to your Azure subscription and manage resources 
+
+Command line interface 
+is  cross platform program that connects to Azure and executes administrative commands on Azure resources 
+
+powerShell core 
+is a cross-platform version of PowerShell that runs on Windows, Linux or MacOS 
+
+
