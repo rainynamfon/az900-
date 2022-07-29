@@ -7,3 +7,41 @@ Big Data and anlytics
 3 Azure data Lake Analytics 
 
 
+Azure SQL Data Warehouse 
+is a cloud-based Enterprise Data Warehouse that leverages massively 
+parallel processing to run complex queries quickly across petabytes of data 
+
+Analysis queries that take days to complete on a traditional database system typically complete
+within hours when run in SQL data Warehouse 
+
+Azure HDInsight 
+is an open-source analytics service for enterprises that makes it easier to process 
+massive amounts of data 
+
+Analysis Queries that take days to complete on a traditional database system typically complete 
+within hours when run in SQL Data Warehouse 
+
+Faster and more cost-effective than traditional solutions 
+
+Azure HDInsight support popular open-source 
+frameworks and cluster types 
+
+Azure Data Lake Analytics 
+is an on-demand analytics job service 
+
+Write Queries to transform data and extract insights from it 
+Scale up or down by choosing how much power that you need
+Only pay for your job when it;s running 
+
+
+
+Azure Databricks 
+ia an Apache Spark-based analytics platform that's optimized 
+specifically for microsoft Azure. 
+
+
+
+
+
+
+
