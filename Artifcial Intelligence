@@ -1,0 +1,16 @@
+A wide range of services, including Machine Learning, 
+which is considered the core service 
+
+Machine Learning 
+is a technique that allows computers to leverage existing data to forecast future 
+behaviors or outcomes 
+
+Azure Machine Learning Service 
+provides a cloud-based environment used to develop, train, test, deploy, manage, and track machine learning models 
+
+Azure Machine Learning Studio 
+is a collaborative, drag-and-drop visual workspace where you can build, test, and deploy machine learning solution without needing to writd code  
+
+Aure Machine Learning Studio 
+doesn't provide as much control over machine learning algorithms as the Machine Learning service. 
+
