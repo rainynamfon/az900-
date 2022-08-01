@@ -1,0 +1,12 @@
+Azure Blob 
+Enables you to set up highly available network file shares that can be accessed by using the SMB protocol 
+
+Azure Files 
+is an object storage solution, optimized for storing massive amounts of unstructured data,
+such as tesxt or binary data 
+
+Azure Queue 
+used to store lists to messages to be processed asynchronously 
+
+Azure table 
+stores large amounts of structured data 
