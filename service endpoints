@@ -1,0 +1,12 @@
+Service endpoints 
+Connect to other Azure resource types, such as Azure SQL databases and storage accounts. 
+
+point-to-site (P2S) VPN
+Create a secure connection to your vistual network from an individual client computer.
+
+site-tosite (S2S) VPN
+links your on-premises VPN device or gateway to the Azure VPN gateway in a vistual network.
+
+Azure ExpressROute
+provides dedicated private connectivity to Azure that doesn't travel over the internet.
+
