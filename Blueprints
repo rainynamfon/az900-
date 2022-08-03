@@ -1,0 +1,12 @@
+Blueprint
+define a repeatable set of Azure resources that implement and adhere to an organization's standards, patterns, and requirements 
+
+ARM templates 
+define the infrastructure and configuration for your project 
+
+Scale Sets 
+allows you to create and manage a group of VM instances, and can automatically increase or decrease in response to demand 
+
+Azure Policy 
+enforce organizational standards and to assess compliance at-scale 
+
