@@ -1,0 +1,28 @@
+Azure Firewall 
+Microsoft's managed network security service in Azure that protects 
+Azure Virtual Network resources. 
+
+Azure Firewall 
+Uses a static public IP address to represent the virtual network 
+resources behind it.
+
+-Fully integrated with Azure Monitor 
+-Built-in high availability 
+-Unrestricted cloud scalability 
+-Inbound and outbound filtering rules 
+-Azure Monitor logging 
+Azure application Gateway also provides a firewall. called WAF. or Web application Firewall. which peovides centralized, 
+inbound protection for web applications 
+
+Azure DDoS protection 
+Two Tiers: Basic and Standard 
+Basic tier is automatically enabled in Azure 
+standard tier adds mitigation capabilities 
+
+NSG Network Security Groups (NSGs) 
+Filters network traffic to and from Azure resources 
+connected to Azure Virtual Networks. 
+
+Consists of inbound and outbound rules 
+
+Supports  as many rules as necessary, within subscription limmits 
