@@ -1,0 +1,11 @@
+VPN Gateway 
+used to send encrypted traffic over the public internet between cloud and on-premises 
+
+Application Gateway 
+used to manage traffic to webapps 
+
+Gateway Subnet 
+used for routing the traffic from one network to another network 
+
+local network gateway 
+represents VPN device in the network used to set up site-to-site VPN connetion 
