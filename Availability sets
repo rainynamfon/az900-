@@ -1,0 +1,13 @@
+Availability Sets
+ensure your application remains online if a high-impact maintenance event is required, 
+or if a hardware failure occurs 
+
+Availability Zones 
+are physically seperate locations with their own power, cooling, and networking 
+
+Region 
+is a geographical area on the planet containing at least one, but potentially multiple datacenters
+
+Geographies 
+typically containing two or more regions that preserve data residency and compliance boundaries 
+
