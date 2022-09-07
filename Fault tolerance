@@ -1,0 +1,14 @@
+fault tolerance 
+is the ability of a service to remain available after a failure of one of the components of the service. for example,a service eunning on mutiple servers can 
+withstand the failure of one of the servers.
+
+Disaster revovery 
+is the recovery of a service after a failure. for example, restoring a virtual machine from backup after a virtual machine failure.
+
+Dynamic scalability
+is the ability for compute resource to be added to a service when the service is under heavy load. for example, in a virtual machine scale set,
+additional instances of the virtual machine are added when the existing vistual machine are under heavy load 
+
+low latency 
+is the the time a service to respond to requests. for example , the time it takes for a web page to be returned from a web server. low latency means low response
+time which means a quicker response 
