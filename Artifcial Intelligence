@@ -6,7 +6,7 @@ is a technique that allows computers to leverage existing data to forecast futur
 behaviors or outcomes 
 
 Azure Machine Learning Service 
-provides a cloud-based environment used to develop, train, test, deploy, manage, and track machine learning models 
+provides a cloud-based environment used to develop, train, test, deploy, manage, and track machine learning models.
 
 Azure Machine Learning Studio 
 is a collaborative, drag-and-drop visual workspace where you can build, test, and deploy machine learning solution without needing to writd code  
